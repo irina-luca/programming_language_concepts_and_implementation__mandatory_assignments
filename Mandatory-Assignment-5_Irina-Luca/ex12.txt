@@ -1,0 +1,3 @@
+int f(int x, int y) = x + y;
+
+let z = f(1, 1) in z + 6 end

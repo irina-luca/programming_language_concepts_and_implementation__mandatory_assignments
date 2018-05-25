@@ -1,0 +1,3 @@
+int debug(int a, int b, int c) = if c < b then c else debug(a, b, c-b);
+debug(1, 7, 10)
+
